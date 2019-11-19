@@ -27,4 +27,7 @@ const App = () => {
         </Block>
     );
 };
+
+// RESULT: <div class="block block_color_red block_size_xl">Lorem Ipsum</div>
+
 ```
